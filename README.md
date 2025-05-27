@@ -26,7 +26,7 @@ Built with **Python** and designed with **OOP principles**, it mimics basic AI d
 ## 🛠️ Installation
 1. Clone the repository
    ```bash
-  https://github.com/Vosty17/AI-wk1-assigment.git
+    https://github.com/Vosty17/AI-wk1-assigment.git
    cd AI-wk1-assignment
    ```
 
