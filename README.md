@@ -76,6 +76,6 @@ MIT © 2025 [Stephen Wafula ]
 ## Collaborators
 - [Stephen Wafula](https://github.com/Vosty17) - `stephwafula70@gmail.com` | 0762414548 - GroupLeader/ Created repository and Rewriting discussed Code
 - [Niver Chepkwemoi](https://github.com/Niver15) - `niverchep@gmail.com` | 0796184723 - Assistant Group leader/ Hosted group discussion
-- [Oliver Akwana](https://github.com/AKWANA686) - `akwanaoliver@gmail.com` - [Role/Contribution to be filled]
-- Antonet Chepkoech - `anton.chepkoech@gmail.com` | 0711156196 - [Role/Contribution to be filled]
+- [Oliver Akwana](https://github.com/AKWANA686) - `akwanaoliver@gmail.com` - [Role/Testing the bot and ensures it answers all the questions]
+- Antonet Chepkoech - `anton.chepkoech@gmail.com` | 0711156196 - [Role/Debugging and correcting errors]
 - Cedrick Shikoli - [GitHub link and contact info needed] - [Role/Contribution to be filled]
