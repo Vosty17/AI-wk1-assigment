@@ -19,6 +19,66 @@ class CryptoBuddy:
                 "market_cap": "medium",
                 "energy_use": "low",
                 "sustainability_score": 8/10
+            },
+            "Solana": {
+                "price_trend": "rising",
+                "market_cap": "high",
+                "energy_use": "low",
+                "sustainability_score": 7/10
+            },
+            "Polkadot": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 7/10
+            },
+            "Avalanche": {
+                "price_trend": "rising",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 8/10
+            },
+            "Polygon": {
+                "price_trend": "rising",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 7/10
+            },
+            "Chainlink": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 6/10
+            },
+            "Cosmos": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 8/10
+            },
+            "Tezos": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 9/10
+            },
+            "Algorand": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 9/10
+            },
+            "Stellar": {
+                "price_trend": "stable",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 8/10
+            },
+            "Hedera": {
+                "price_trend": "rising",
+                "market_cap": "medium",
+                "energy_use": "low",
+                "sustainability_score": 8/10
             }
         }
     
