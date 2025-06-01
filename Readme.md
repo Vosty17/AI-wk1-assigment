@@ -3,7 +3,7 @@
 *A Python-based cryptocurrency advisory chatbot using rule-based AI*
 
 ![Chatbot Demo](https://github.com/Vosty17/ScreenshotDemo.jpeg/blob/main/IMG_20250527_132805.jpg )
-##Demo video 
+## Demo video 
 [Bot video](https://github.com/Vosty17/AI-wk1-assigment/blob/main/demo%20video.mp4)
 ## 📌 Overview
 CryptoBuddy is a **command-line chatbot** that helps users get quick insights on cryptocurrency investments based on:
