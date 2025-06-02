@@ -80,4 +80,4 @@ MIT © 2025 [Stephen Wafula ]
 - [Oliver Akwana](https://github.com/AKWANA686) - `akwanaoliver@gmail.com` - [Role/Testing the bot and ensures it answers all the questions]
 - [Antonet Chepkoech](https://github.com/Chepkoech21-beep)-
  `anton.chepkoech@gmail.com` | 0711156196 - [Role/Debugging and correcting errors]
-- Cedrick Shikoli - [GitHub link and contact info needed] - [Role/Contribution to be filled]
+- [Cedrick Shikoli](https://github.com/ceddyxan) - 'cedricshik@gmail.com' | 0723499744 - [Role/Contribution to be filled]
