@@ -1,3 +1,4 @@
+#Define the new class CryptoBuddy
 class CryptoBuddy:
     def __init__(self):
         self.name = "CryptoBuddy"
